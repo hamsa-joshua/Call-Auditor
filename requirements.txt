@@ -1,0 +1,20 @@
+
+streamlit>=1.30.0
+python-dotenv>=1.0.0
+pandas>=2.1.0
+# Audio Processing
+openai-whisper
+pydub
+
+# LLM & RAG
+google-generativeai
+groq
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+# Reporting
+fpdf
+openpyxl
+# Utils
+python-multipart
