@@ -18,3 +18,5 @@ fpdf
 openpyxl
 # Utils
 python-multipart
+
+matplotlib
